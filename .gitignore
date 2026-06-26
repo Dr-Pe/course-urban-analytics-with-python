@@ -1,5 +1,6 @@
 # Specific
 cache
+*.parquet
 
 # Installer logs
 pip-log.txt
